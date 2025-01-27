@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    navScroll();
+    // navScroll();
     activeMove();
     navItems();
     scopriDiPiu();
@@ -8,68 +8,83 @@ jQuery(document).ready(function($) {
 });
 
 // Logo hide while scrolling the page and show at the beginning of the page
-function navScroll() {
-    $(window).scroll(function() {
-        $(".navbar-brand > img").hide();
-        if ($(window).scrollTop() < 50) {
-            $(".navbar-brand > img").show();
-        }
-    })
-}
+//function navScroll() {
+//    $(window).scroll(function() {
+//        $(".navbar-brand > img").hide();
+//        if ($(window).scrollTop() < 50) {
+//            $(".navbar-brand > img").show();
+//        }
+//    })
+//}
 
 // Dynamic active class on navbar items while scrolling the page ...I can do better, so do you!
 function activeMove() {
     var heightHome = $("#home").offset().top;
     var heightAbout = $("#about").offset().top;
-    var heightProgramma = $("#programma").offset().top;
-    var heightRelatori = $("#relatori").offset().top;
-    var heightCollegati = $("#collegati").offset().top;
-    var heightContatti = $("#contatti").offset().top;
+    var heightCfp = $("#cfp").offset().top;
+    var heightSubmission = $("#submission").offset().top;
+    var heightVenue = $("#venue").offset().top;
+    var heightProceedings = $("#proceedings").offset().top;
+    var heightContact = $("#contact").offset().top;
     $(window).scroll(function() {
         var windowPos = window.pageYOffset;
         if (windowPos > heightHome) {
             $(".home-li").addClass("active");
             $(".about-li").removeClass("active");
-            $(".programma-li").removeClass("active");
-            $(".relatori-li").removeClass("active");
-            $(".collegati-li").removeClass("active");
-            $(".contatti-li").removeClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").removeClass("active");
         } 
         if (windowPos > heightAbout) {
             $(".home-li").removeClass("active");
             $(".about-li").addClass("active");
-            $(".programma-li").removeClass("active");
-            $(".relatori-li").removeClass("active");
-            $(".collegati-li").removeClass("active");
-            $(".contatti-li").removeClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").removeClass("active");
         } 
-        if (windowPos > heightProgramma) {
+        if (windowPos > heightCfp) {
             $(".about-li").removeClass("active");
-            $(".programma-li").addClass("active");
-            $(".relatori-li").removeClass("active");
-            $(".collegati-li").removeClass("active");
-            $(".contatti-li").removeClass("active");
+            $(".cfp-li").addClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").removeClass("active");
         }
-        if (windowPos > heightRelatori) {
+        if (windowPos > heightSubmission) {
             $(".about-li").removeClass("active");
-            $(".programma-li").removeClass("active");
-            $(".relatori-li").addClass("active");
-            $(".collegati-li").removeClass("active");
-            $(".contatti-li").removeClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").addClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").removeClass("active");
         }
-        if (windowPos > heightCollegati) {
+        if (windowPos > heightVenue) {
             $(".about-li").removeClass("active");
-            $(".programma-li").removeClass("active");
-            $(".relatori-li").removeClass("active");
-            $(".collegati-li").addClass("active");
-            $(".contatti-li").removeClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").addClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").removeClass("active");
         }
-        if (windowPos > heightContatti) {
+        if (windowPos > heightProceedings) {
             $(".about-li").removeClass("active");
-            $(".programma-li").removeClass("active");
-            $(".relatori-li").removeClass("active");
-            $(".collegati-li").removeClass("active");
-            $(".contatti-li").addClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").addClass("active");
+            $(".contact-li").removeClass("active");
+        }
+        if (windowPos > heightContact) {
+            $(".about-li").removeClass("active");
+            $(".cfp-li").removeClass("active");
+            $(".submission-li").removeClass("active");
+            $(".venue-li").removeClass("active");
+            $(".proceedings-li").removeClass("active");
+            $(".contact-li").addClass("active");
         }
     })
 }
