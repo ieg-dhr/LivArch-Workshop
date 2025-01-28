@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![IEG_Logot](https://github.com/ieg-dhr/LivArch-Workshop/blob/main/assets/images/ieg-logo2-small.png)
+![IEG_Logo](https://raw.githubusercontent.com/ieg-dhr/LivArch-Workshop/refs/heads/main/assets/images/ieg-logo2-small.png)
 # Program
 (Download as pdf)
 
