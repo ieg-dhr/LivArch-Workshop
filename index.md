@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# The Workhop
+
 # Program
 (Download as pdf)
 
