@@ -3,8 +3,8 @@ layout: default
 ---
 
 # The Workhop
-## …
 
+The [Leibniz Institute of European History (IEG)](https://www.ieg-mainz.de/likecms.php?function=set_lang&lang=en), along with members of the research consortium “[LivArch - Documenting Russia's war against Ukraine: The challenges of living archives for historical knowledge production](https://www.ieg-mainz.de/---_site.site..ls_dir._nav.96_f.183_likecms.html)” are happy to introduce the IEG LivArch Workshop. This event aims to create a thorough scholarly dialogue focusing on the extensive archival collection pertaining to the ongoing war in Ukraine and the worldwide impact of such digital archiving phenomena. The workshop will feature discussions with scholars in the emerging field of rapid response digital archives and leaders currently engaged in documenting the war in Ukraine. Consequently, we foresee an opportunity for participants to not only better grasp the various facets of this scenario but also enhance acquaintance among themselves and explore potential collaborative endeavors. Having this opportunity after discussing the varied levels of importance of digital archiving in Ukraine, we believe, will establish a solid foundation for participants to comprehend the many layers of importance of the subject matter. This, in turn, will enable more qualitative debates on specific aspects in future workshops and meetings within LivArch and beyond, on topics such as digital preservation, addressing sensitive pasts, and metadata standardization, among others.
 # Program
 (Download as pdf)
 
@@ -28,6 +28,7 @@ Tabitha Redepenning (Herder Institute)
 
 ### 13:15-14:45 – Session 2: The experience of archiving the war in Ukraine
 **Summary:** This session will provide an overview of the process involved in archiving records related to the war in Ukraine, drawing upon the experiences of individuals actively engaged in projects focused on collecting testimonies and other types of records in the context of the conflict. The session will allow us to discuss aspects such as motivations, choices, challenges, outcomes, and lessons learned from creating digital archives amid the war. Therefore, it will address both the sensitivities surrounding this phenomenon and the conceptual and practical challenges of creating comprehensive archives during a time of conflict.  
+
 #### Speakers:  
 Natalia Otrishchenko (Lviv Center for Urban History)  
 Svitlana Osipchuk (War Childhood Museum)  
