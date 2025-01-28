@@ -51,4 +51,4 @@ Thorsten Wübbena (IEG)
 
 ## Contact
 
-<a href="digital@ieg-mainz.de"></a>
+<a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
