@@ -5,7 +5,7 @@ layout: default
 # Program
 
 ### 10:00 – Onboarding
-**Speakers:**  
+#### Speakers:  
 Johannes Paulmann (IEG) – Greetings from the IEG  
 Peter Haslinger (Herder Institute) – Greetings from the Herder Institute  
 Ian Marino (IEG) – Introduction and general information to the event  
@@ -45,9 +45,9 @@ Speaker: Ian Marino (IEG)
 
 ## Concept and workshop organisation
 
-Ian Marino (IEG)  
-Tabitha Redepenning (Herder Institute)  
-Thorsten Wübbena (IEG)  
+[Ian Marino (IEG)](https://www.ieg-mainz.de/institut/personen/marino)  
+[Tabitha Redepenning (Herder Institute)](https://www.herder-institut.de/profile/tabitha-redepenning/)  
+[Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
 
 ## Contact
 
