@@ -40,3 +40,15 @@ Mills Kelly (Roy Rosenzweig Center for History and New Media)
 
 ### 16:45-17:00 – Closing thoughts
 Speaker: Ian Marino (IEG)
+
+---
+
+## Concept and workshop organisation
+
+Ian Marino (IEG)
+Tabitha Redepenning (Herder Institute)
+Thorsten Wübbena (IEG)
+
+## Contact
+
+<a href="digital@ieg-mainz.de"></a>
