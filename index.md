@@ -1,5 +1,3 @@
-![IEG_Logo](https://raw.githubusercontent.com/ieg-dhr/LivArch-Workshop/refs/heads/main/assets/images/ieg-logo2-small.png)
-
 ---
 layout: default
 ---
