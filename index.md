@@ -45,9 +45,9 @@ Speaker: Ian Marino (IEG)
 
 ## Concept and workshop organisation
 
-Ian Marino (IEG)
-Tabitha Redepenning (Herder Institute)
-Thorsten Wübbena (IEG)
+Ian Marino (IEG)  
+Tabitha Redepenning (Herder Institute)  
+Thorsten Wübbena (IEG)  
 
 ## Contact
 
