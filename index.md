@@ -50,9 +50,9 @@ Ian Marino (IEG)
 
 ## Concept and workshop organisation
 
-### [Ian Marino (IEG)](https://www.ieg-mainz.de/institut/personen/marino)  
-### [Tabitha Redepenning (Herder Institute)](https://www.herder-institut.de/profile/tabitha-redepenning/)  
-### [Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
+[Ian Marino (IEG)](https://www.ieg-mainz.de/institut/personen/marino)  
+[Tabitha Redepenning (Herder Institute)](https://www.herder-institut.de/profile/tabitha-redepenning/)  
+[Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
 
 ## Contact
 
