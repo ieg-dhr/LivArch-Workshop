@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 # Program
+(Download as pdf)
 
 ### 10:00 – Onboarding
 #### Speakers:  
@@ -35,22 +36,24 @@ Ian Marino (IEG)
 
 ### 15:00-16:30 – Session 3: A global phenomenon?
 **Summary:** This session will provide macro-level reflections based on the experience of “living archives” related to the war in Ukraine. It explores the possibility that the Ukrainian archiving scenario is part of a global phenomenon with its own historical context, involving various scenarios in which individuals have fought to create archives of catastrophic events using digital tools in real time. Additionally, this session will facilitate a discussion on the challenges of making sense of the multiplicity and diversity of projects that have been archiving the context of the war in Ukraine, covering topics such as metadata and the development of reliable digital preservation strategies.   
-**Speakers:**  
+#### Speakers:  
 Mills Kelly (Roy Rosenzweig Center for History and New Media)  
-  Machteld Venken (Luxembourg Center for Contemporary and Digital History - C²DH)  
-**Moderator:**  Thorsten Wübbena (IEG)
+Machteld Venken (Luxembourg Center for Contemporary and Digital History - C²DH)  
+#### Moderator:  
+Thorsten Wübbena (IEG)
 
 ### 16:45-17:00 – Closing thoughts
-Speaker: Ian Marino (IEG)
+#### Speaker:  
+Ian Marino (IEG)
 
 ---
 
 ## Concept and workshop organisation
 
-[Ian Marino (IEG)](https://www.ieg-mainz.de/institut/personen/marino)  
-[Tabitha Redepenning (Herder Institute)](https://www.herder-institut.de/profile/tabitha-redepenning/)  
-[Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
+### [Ian Marino (IEG)](https://www.ieg-mainz.de/institut/personen/marino)  
+### [Tabitha Redepenning (Herder Institute)](https://www.herder-institut.de/profile/tabitha-redepenning/)  
+### [Thorsten Wübbena (IEG)](https://www.ieg-mainz.de/institut/personen/wuebbena)  
 
 ## Contact
 
-<a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
+### <a href="mailto:digital@ieg-mainz.de">digital@ieg-mainz.de</a>
